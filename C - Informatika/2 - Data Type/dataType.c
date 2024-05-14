@@ -9,6 +9,8 @@ int main() {
     printf("Value of doubleVar: %lf\n", doubleVar);
     printf("Value of charVar: %c\n", charVar);
 
+    return 0;
+    
     printf("Size of int: %lu bytes\n", sizeof(int));
     printf("Size of double: %lu bytes\n", sizeof(double));
     printf("Size of char: %lu bytes\n", sizeof(char));
